@@ -1,0 +1,5 @@
+[KEYS]
+user=javier.galache@philips.com
+pass=Philips14682-
+security_token=WSKSQ8sjCA8s5oPC12qq7HdP5
+reportid=00O24000004fCk5
